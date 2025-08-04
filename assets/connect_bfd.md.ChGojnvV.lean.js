@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,a2 as l}from"./chunks/framework.CempjV1Q.js";const b=JSON.parse('{"title":"BFD","description":"","frontmatter":{},"headers":[],"relativePath":"connect/bfd.md","filePath":"connect/bfd.md"}'),p={name:"connect/bfd.md"};function e(h,s,t,r,k,d){return n(),a("div",null,s[0]||(s[0]=[l("",27)]))}const o=i(p,[["render",e]]);export{b as __pageData,o as default};
