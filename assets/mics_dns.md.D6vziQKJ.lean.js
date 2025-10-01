@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,a2 as p}from"./chunks/framework.9Uv4PgnO.js";const c=JSON.parse('{"title":"DNS","description":"","frontmatter":{},"headers":[],"relativePath":"mics/dns.md","filePath":"mics/dns.md"}'),l={name:"mics/dns.md"};function e(h,s,t,k,r,d){return n(),a("div",null,[...s[0]||(s[0]=[p("",174)])])}const g=i(l,[["render",e]]);export{c as __pageData,g as default};
