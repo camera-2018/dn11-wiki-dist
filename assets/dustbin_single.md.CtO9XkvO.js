@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.BHCkOB8p.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"dustbin/single.md","filePath":"dustbin/single.md"}'),n={name:"dustbin/single.md"};function a(r,i,o,c,d,l){return s(),t("div")}const m=e(n,[["render",a]]);export{_ as __pageData,m as default};
