@@ -1,1 +1,0 @@
-import{_ as a,o as n,c as i,a4 as e}from"./chunks/framework.BIB8bxMM.js";const c=JSON.parse('{"title":"rDNS","description":"","frontmatter":{},"headers":[],"relativePath":"mics/rdns.md","filePath":"mics/rdns.md"}'),p={name:"mics/rdns.md"};function l(r,s,h,t,d,k){return n(),i("div",null,[...s[0]||(s[0]=[e("",41)])])}const F=a(p,[["render",l]]);export{c as __pageData,F as default};
